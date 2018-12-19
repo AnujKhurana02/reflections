@@ -1,0 +1,16 @@
+How did viewing a diff between two versions of file help you see the bug that was introduced?
+
+diff allows us to compare two files i.e the lines that have been changed or added.it shows lines existed in the old version with '-' sign and lines existed in the new version with '+' sign, while rest of the code remains the same.in this way we can find the bug easily comparing the lines that have been changed or edited and we don't need to check the full code of both the versions of file.
+
+
+How could having easy access to the entire history of a file make you more efficient as programmer in the long term?
+
+What do you think are the pros and cons of manually choosing when to create a commit , like you do in Git, vs having versions automatically saved, like google docs does?
+
+Why do you think some version control systems, like git, allow multiple files in one commit, while others, like google docs, treate each file seperately?
+
+How can you use the commands git log and git diff to view the history of files?
+
+how might using version control make you more confident to make changes that could break something?
+
+how do you want to use git?
